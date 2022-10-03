@@ -1,1 +1,3 @@
-output "password" {}
+output "password" {
+value = ""
+}
